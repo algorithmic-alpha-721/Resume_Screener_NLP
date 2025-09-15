@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data folder - ignore large files
+data/*.csv
+data/*.json
+data/*.zip
+data/*.pkl
+data/*.h5
+
+# OS/Editor stuff
+.DS_Store
+Thumbs.db
+.vscode/
