@@ -65,7 +65,7 @@ To list your project’s dependencies, include a requirements.txt file with:
 - sentence-transformers
 - scikit-learn
 
---
+---
 ## Author
 **Developed by Aj (algorithmic-alpha-721)**
 **Inspired by real-world hiring challenges and NLP innovation.**
